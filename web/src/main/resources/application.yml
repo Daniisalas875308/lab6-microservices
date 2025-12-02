@@ -16,7 +16,7 @@ spring:
 
 # Notice there's no explicit Eureka client configuration here!
 # Spring Cloud automatically configures Eureka client when:
-# 1. spring-cloud-starter-netflix-eureka-client is on the classpath
+# 1. spring-cloud-starter-              netflix-eureka-client is on the classpath
 # 2. Eureka is available at the default location (http://localhost:8761/eureka/)
 # The web service will automatically register with Eureka and discover other services.
 
